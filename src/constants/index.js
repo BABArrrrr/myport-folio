@@ -4,11 +4,13 @@ import project3 from "../assets/projects/coaching.png";
 
 
 export const HERO_CONTENT = `
-I am a passionate front-end developer with a talent for creating responsive and interactive web applications. With one year of hands-on experience, I have honed my skills in front-end technologies such as HTML, CSS, and JavaScript. Additionally, I have experience using frameworks and libraries like Bootstrap, Tailwind CSS, React.js, and Next.js.
+I’m an aspiring AI/ML Engineer with a background in web development. I love exploring how intelligent systems can be built using data, machine learning, and modern technologies. My goal is to keep learning, experimenting, and building projects that combine creativity with AI.`;
 
-My goal is to use my skills to build innovative web solutions that provide excellent user experiences and help businesses grow. Explore my portfolio to see examples of my work, and feel free to reach out if you'd like to collaborate on a project!`;
+export const ABOUT_TEXT = `My journey in tech started with front-end development, where I built responsive and interactive web applications using HTML, CSS, JavaScript, and React. 
 
-export const ABOUT_TEXT = `I'm a frontend developer with one year  of experience, passionate about crafting user experiences that feel effortless. I started with the core skills – HTML, CSS, and JavaScript – and solidified my foundation by replicating PSD designs and participating in internships. Now, I'm expanding my horizons by diving into React.js and exploring frameworks like Bootstrap and Tailwind CSS for added responsiveness. But my journey doesn't stop there! My love for problem-solving extends to the backend, so I'm currently sharpening my Python skills with Data Structures and Algorithms, and considering venturing into Python backend development. This blend of technical expertise, design understanding, and a thirst for knowledge allows me to approach projects from a well-rounded perspective. Let's collaborate and turn your vision into a stunning and functional reality!`;
+Later, I developed a strong interest in Artificial Intelligence and Machine Learning. I explored topics like supervised and unsupervised learning, NLP, and recommendation systems. 
+
+Currently, I’m focusing on becoming an AI/ML Engineer by combining my software development foundation with machine learning, natural language processing, and deep learning. I enjoy solving problems, building intelligent applications, and continuously improving my skills.`;
 
 export const EXPERIENCES = [
   {
